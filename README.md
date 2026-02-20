@@ -1,5 +1,5 @@
 # Customer Churn Analysis
-A data-driven analysis of customer churn patterns for a music streaming service, uncovering critical retention drivers and providing actionable recommendations to reduce churn by 40%.
+A data-driven analysis of customer churn patterns for a music streaming service, uncovering critical churn drivers and providing actionable recommendations to reduce churn by 40%.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
