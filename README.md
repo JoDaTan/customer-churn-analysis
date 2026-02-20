@@ -119,7 +119,7 @@ Premium users pay 3x more but use the app LESS than Basic users. They don't see 
   - Wait until they've used the app 4+ times
   - Then say: "You're a great listener! Try Premium free for 7 days"
 
-### Priority 4: Catch Customers Before They Leave
+### 4: Catch Customers Before They Leave
 Notice when people stop using the app.
 
 **Actions:**
